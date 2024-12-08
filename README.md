@@ -10,19 +10,19 @@
 
 - 📫 How to reach me **pathannehan28@gmail.com**
 
+<h3 align="left">Hacktoberfest Contributions:</h3>
+<p align="left">
+  🎉 I completed all my pull requests for Hacktoberfest 2024! Here are the tags for my contributions:
+</p>
+<p align="left">
+  <a href="https://holopin.me/nehanpathan" target="blank"><img src="https://img.shields.io/badge/Hacktoberfest%202024%20completed-brightgreen" alt="Hacktoberfest 2024" height="30" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Nehan-Khan-Pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehankhanpathan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Hacktoberfest Contributions:</h3>
-<p align="left">
-  🎉 I completed all my pull requests for Hacktoberfest 2024! Here are the tags for my contributions:
-</p>
-
-<p align="left">
-  <a href="https://github.com/nehanpathan?tab=contributions" target="blank"><img src="https://img.shields.io/badge/Hacktoberfest%202024%20completed-brightgreen" alt="Hacktoberfest 2024" height="30" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
