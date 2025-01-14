@@ -2,7 +2,7 @@
 <h3 align="center">Currently crafting code in Ahmedabad.</h3>
 
 
-- 🌱 I’m currently learning **Angular(Typescript), ASP.NET Core MVC/API (C#), Python**
+- 🌱 I’m currently learning **Angular, ASP.NET Core MVC/API, Python**
 
 - 👨‍💻 All of my projects are available at [https://nehan-portfolio.netlify.app/](https://nehan-portfolio.netlify.app/)
 
@@ -11,9 +11,7 @@
 - 📫 How to reach me **pathannehan28@gmail.com**
 
 <h3 align="left">Hacktoberfest Contributions:</h3>
-<p align="left">
-  🎉 I completed all my pull requests for Hacktoberfest 2024! Here are the tags for my contributions:
-</p>
+
 <p align="left">
   <a href="https://holopin.me/nehanpathan" target="blank"><img src="https://img.shields.io/badge/Hacktoberfest%202024%20completed-brightgreen" alt="Hacktoberfest 2024" height="30" /></a>
 </p>
