@@ -7,26 +7,26 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Currently working with **Angular**, **ASP.NET Core**, and **Python**
-- 🎯 Aspiring **GSoC 2025 Contributor**
-- 🛠️ I love solving real-world problems with clean code and smooth user experiences
-- 🧠 Always learning — exploring **LangChain**, **LangGraph**, **C# OOP**, and **AI-driven assistants**
-- 📫 Reach me at **pathannehan28@gmail.com**
+* 💻 Currently working with **Angular**, **ASP.NET Core**, and **Python**
+* 🧠 Passionate about building **clean, efficient** solutions with smooth user experiences
+* 🚀 Always learning — exploring **LangChain**, **LangGraph**, **C# OOP**, and **AI-driven assistants**
+* 📨 Reach me at **[pathannehan28@gmail.com](mailto:pathannehan28@gmail.com)**
 
 ---
 
 ### 🌐 Portfolio
 
-- 🚀 Explore my work at: [**nehan-portfolio.netlify.app**](https://nehan-portfolio.netlify.app/)
+* 🧭 Explore my work at: [**nehan-portfolio.netlify.app**](https://nehan-portfolio.netlify.app/)
 
 ---
 
-### 🧑‍💻 GSoC & Open Source Contributions
+### 🧑‍💻 Open Source & Achievements
 
-- ✔️ **Hacktoberfest 2024 Completed**
-- 🔧 Contributing to the **Apache Software Foundation** — focused on **Lucene.NET**, improving indexing and dictionary logic
-- 🏅 View my badge board on [Holopin »](https://holopin.me/nehanpathan)
-- 🎓 Selected for **Google Summer of Code 2025** with [Apache Lucene](https://lucene.apache.org/)
+* 🏆 **GSoC 2025** Contributor with [Apache Software Foundation] — Project: [Lucene.NET]
+* 👨‍🔧 Official **Apache Committer**, contributing to **core indexing and dictionary enhancements**
+* 🌱 Completed **Hacktoberfest 2024**
+* 🪙 View my badge board on [Holopin »](https://holopin.me/nehanpathan)
+
 
 [![GSoC 2025 Contributor](https://img.shields.io/badge/GSoC%202025-Selected%20Project-blue?logo=google)](https://summerofcode.withgoogle.com/programs/2025/projects/DWGSyADV)
 
