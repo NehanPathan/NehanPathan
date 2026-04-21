@@ -1,95 +1,67 @@
 <h1 align="center">Hi 👋, I'm Nehan</h1>
-<h3 align="center">A Full Stack Developer from Ahmedabad, India 🇮🇳</h3>
+<h3 align="center">Software Developer from India 🇮🇳</h3>
 
-<p align="center">🌱 Passionate about building user-friendly software and contributing to open-source projects.</p>
+<p align="center">
+🌱 Building user-friendly software • 💡 Exploring AI • 🤝 Open Source Contributor
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 💻 Currently working with **Angular**, **ASP.NET Core**, and **Python**
-* 🧠 Passionate about building **clean, efficient** solutions with smooth user experiences
-* 🚀 Always learning — exploring **LangChain**, **LangGraph**, **C# OOP**, and **AI-driven assistants**
-* 📨 Reach me at **[pathannehan28@gmail.com](mailto:pathannehan28@gmail.com)**
+* 💻 Working with **Angular**, **React**, **ASP.NET Core**, **Python**
+* 🧠 Focused on clean architecture & smooth UX
+* 🚀 Exploring AI-driven assistants
+* 📫 [pathannehan28@gmail.com](mailto:pathannehan28@gmail.com)
 
 ---
 
 ### 🌐 Portfolio
 
-* 🧭 Explore my work at: [**nehan-portfolio.netlify.app**](https://nehan-portfolio.netlify.app/)
+* 🧭 [Visit My Portfolio](https://nehan-portfolio.netlify.app/)
 
 ---
 
 ### 🧑‍💻 Open Source & Achievements
 
-* 🏆 **GSoC 2025** Contributor with [Apache Software Foundation] — Project: [Lucene.NET]
-* 👨‍🔧 Official **Apache Committer**, contributing to **core indexing and dictionary enhancements**
-* 🌱 Completed **Hacktoberfest 2024**
-* 🪙 View my badge board on [Holopin »](https://holopin.me/nehanpathan)
+* 🏆 **GSoC 2025 Contributor** — Apache Software Foundation
+* 👨‍🔧 **Apache Committer** — Lucene.NET
+* 🌱 Successfully completed **Hacktoberfest 2024**
+* 🪙 [View Holopin Badge Board](https://holopin.me/nehanpathan)
 
-
-[![GSoC 2025 Contributor](https://img.shields.io/badge/GSoC%202025-Selected%20Project-blue?logo=google)](https://summerofcode.withgoogle.com/programs/2025/projects/DWGSyADV)
-
-<p align="left">
-  <a href="https://holopin.me/nehanpathan" target="_blank">
-    <img src="https://img.shields.io/badge/Hacktoberfest%202024%20Completed-brightgreen" alt="Hacktoberfest 2024 Badge" height="30"/>
-  </a>
-</p>
+![GSoC](https://img.shields.io/badge/GSoC%202025-Selected-blue?logo=google)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-brightgreen)
 
 ---
 
-### 📱 Connect with Me
+### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/Nehan-Khan-Pathan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nehan Khan Pathan" height="30" width="40" />
-  </a>
-</p>
+* 🔹 [Lucene.NET Extensions](https://github.com/NehanPathan/lucenenet-extensions)
+  → Custom extensions and enhancements built on top of Lucene.NET for improved search capabilities
 
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🔹 Languages, Frameworks & Libraries
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</p>
-
-#### 🔹 Backend & Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-</p>
-
-#### 🔹 UI/UX & Styling
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
-#### 🔹 Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-</p>
+* 🔹 [Apache Lucene.NET](https://github.com/apache/lucenenet)
+  → Contributed to core indexing, performance improvements, and dictionary enhancements
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehanpathan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=angular,ts,dotnet,cs,python,js,java,cpp,c,firebase,mysql,mongodb,express,bootstrap,tailwind,figma,git,postman,blender)
+
+---
+
+##3 📊 GitHub Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehanpathan)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehanpathan\&layout=compact)
+
+---
+
+### 📱 Connect
+
+* 💼 [LinkedIn Profile](https://linkedin.com/in/Nehan-Khan-Pathan)
+
+---
+
+⭐ *"Code. Contribute. Grow."*
