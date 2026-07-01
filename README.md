@@ -45,46 +45,57 @@ Currently Crafting Code in Ahmedabad, India 😊
 
 # 🚀 Featured Projects
 
-### 🤖 AI Voice Agent Platform
+### 🖼️ MemoraAI — AI-Powered Visual Storytelling
 
-Production-ready Voice AI platform featuring:
+An AI-powered full-stack application that transforms uploaded photos into cinematic memory cards and digital keepsakes.
 
-- AI Calling Agent
-- RAG Integration
-- Vector Database
-- Speech-to-Text
-- Text-to-Speech
-- Tool Calling
-- Docker Deployment
+**Highlights:**
+- 📸 Multi-photo upload with real-time progress tracking
+- 🎬 AI-generated cinematic memory cards using OpenAI GPT-4o
+- 🎨 Multiple storytelling themes (Nostalgic, Travel, Family)
+- ⚡ Real-time streaming updates with Server-Sent Events
+- 📱 Responsive React UI with dark mode
+- 🔒 Production-ready architecture with FastAPI & PostgreSQL
+
+**Tech Stack:** React 19, TypeScript, FastAPI, OpenAI GPT-4o, PostgreSQL, ImageKit, Tailwind CSS
+
+Repository:
+https://github.com/NehanPathan/MemoraAi
 
 ---
 
 ### 🧠 Production RAG Pipeline
 
-Enterprise Retrieval-Augmented Generation system including:
+An enterprise-grade Retrieval-Augmented Generation (RAG) platform designed for scalable, production-ready AI applications.
 
-- Hybrid Search (Vector + BM25)
-- Reranking
-- Context Compression
-- Semantic Cache
-- Citation Tracking
-- Streaming Responses
-- Production-ready Architecture
+**Highlights:**
+- 🔍 Hybrid Search (Vector + BM25)
+- ⚖️ Reciprocal Rank Fusion (RRF) & Intelligent Reranking
+- 🧠 Semantic Caching & Context Compression
+- 📚 Citation Tracking & Streaming Responses
+- 🏗️ Clean Architecture with Domain-Driven Design (DDD)
+- 🚀 Optimized for large-scale document retrieval
+
+Repository:
+https://github.com/NehanPathan/RAG-Pipeline-Production-Level-
 
 ---
 
 ### 🔍 Apache Lucene.NET
 
-Contributed to the Apache Lucene.NET project by improving:
+Apache Lucene.NET Committer contributing to one of the world's leading search libraries by improving performance and search capabilities.
 
-- Search Performance
-- Dictionary Loading
-- Smart Chinese Analyzer
-- Replication Components
-- ASP.NET Core Integration
+**Highlights:**
+- 🚀 Search Performance Optimizations
+- 📖 Smart Chinese Analyzer (SmartCN) Improvements
+- ⚡ Dictionary Loading Enhancements
+- 🔄 Replication Framework Contributions
+- 🌐 ASP.NET Core Integration
+- ✅ Unit Testing & Performance Improvements
 
-Repository:
-https://github.com/apache/lucenenet
+Repositories:
+- https://github.com/apache/lucenenet
+- https://github.com/paulirwin/lucenenet-extensions
 
 ---
 
