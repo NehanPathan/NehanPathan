@@ -45,38 +45,50 @@ Currently Crafting Code in Ahmedabad, India 😊
 
 # 🚀 Featured Projects
 
-### 🖼️ MemoraAI — AI-Powered Visual Storytelling
+### 🖼️ MemoraAI — AI-Powered Visual Storytelling Platform
 
-An AI-powered full-stack application that transforms uploaded photos into cinematic memory cards and digital keepsakes.
+A full-stack AI application that transforms personal photos into **cinematic visual stories and digital keepsakes**, combining multimodal AI, real-time processing, and a modern web experience.
 
 **Highlights:**
-- 📸 Multi-photo upload with real-time progress tracking
-- 🎬 AI-generated cinematic memory cards using OpenAI GPT-4o
-- 🎨 Multiple storytelling themes (Nostalgic, Travel, Family)
-- ⚡ Real-time streaming updates with Server-Sent Events
-- 📱 Responsive React UI with dark mode
-- 🔒 Production-ready architecture with FastAPI & PostgreSQL
 
-**Tech Stack:** React 19, TypeScript, FastAPI, OpenAI GPT-4o, PostgreSQL, ImageKit, Tailwind CSS
+* 📸 **Multi-Photo Processing** — Upload and process multiple images with real-time progress tracking
+* 🎬 **AI Story Generation** — Generate cinematic memory cards and narratives using OpenAI
+* 🎨 **Personalized Storytelling** — Multiple themes including Nostalgic, Travel, and Family
+* ⚡ **Real-Time Processing** — Live generation updates using Server-Sent Events (SSE)
+* 📱 **Modern Web Experience** — Responsive React interface with dark mode
+* 🖼️ **Image Processing Pipeline** — Image upload, storage, and delivery through ImageKit
+* 🔒 **Production-Oriented Architecture** — FastAPI backend with PostgreSQL persistence
+* 🤖 **AI-Powered Personalization** — Combines user-provided visual context with LLM-generated storytelling
 
-Repository:
+**Tech Stack:**
+`React 19` · `TypeScript` · `FastAPI` · `Python` · `OpenAI` · `PostgreSQL` · `ImageKit` · `Tailwind CSS` · `SSE`
+
+**Repository:**
 https://github.com/NehanPathan/MemoraAi
 
 ---
 
-### 🧠 Production RAG Pipeline
+### 🧠 Production RAG & Document Intelligence
 
-An enterprise-grade Retrieval-Augmented Generation (RAG) platform designed for scalable, production-ready AI applications.
+A production-oriented RAG platform built to solve **real-world document intelligence problems**, from enterprise knowledge retrieval to specialized **Steel & CAD engineering documents**.
 
 **Highlights:**
-- 🔍 Hybrid Search (Vector + BM25)
-- ⚖️ Reciprocal Rank Fusion (RRF) & Intelligent Reranking
-- 🧠 Semantic Caching & Context Compression
-- 📚 Citation Tracking & Streaming Responses
-- 🏗️ Clean Architecture with Domain-Driven Design (DDD)
-- 🚀 Optimized for large-scale document retrieval
 
-Repository:
+* 🔍 **Hybrid Retrieval** — Vector Search + BM25 with Reciprocal Rank Fusion (RRF)
+* ⚖️ **Intelligent Reranking** — Query-aware candidate reranking
+* 🧠 **Semantic Caching** — Efficient handling of repeated queries
+* 📄 **Document Intelligence** — PDF, DOCX, images, CAD drawings, and engineering documents
+* 📚 **Citation-Aware Generation** — Answers grounded in retrieved evidence
+* ⚡ **Streaming Responses** — Real-time responses using SSE
+* 🔐 **Production Governance** — RBAC, document clearance, PII redaction, audit logging, and retention
+* 🧪 **Evaluation & Quality Gates** — Automated evaluation and governance checks
+* 🏗️ **Two Architectures** — Framework-free RAG core alongside LangChain/LangGraph
+* 🏭 **Real-World Domain** — Steel & CAD document intelligence, drawing revisions, engineering entities, and visual understanding
+
+**Tech Stack:**
+`Python` · `FastAPI` · `PostgreSQL` · `OpenAI` · `Anthropic` · `LangChain` · `LangGraph` · `BM25` · `Vector Search` · `RAG` · `Docker` · `React` · `TypeScript` · `Streamlit`
+
+**Repository:**
 https://github.com/NehanPathan/RAG-Pipeline-Production-Level-
 
 ---
